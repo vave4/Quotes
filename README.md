@@ -1,4 +1,4 @@
-# Quotes Genrator
+# Quotes Generator
 An app that teaches the integration of an asynchronous fetch request through a Proxy API in order to generate random quotes that can be sent to Twitter.
 # Step by Step
 * Use HeroPatterns for vetcor background, Google Font
